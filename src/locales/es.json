@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "phrase": "Bienvenido a HIGN"
+  },
+  "toolbar": {
+    "home": "Inicio",
+    "examiner-performance-overview": "Descripción general del desempeño del examinador"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Bienvenido a HIGN",
+    "title-card": "Análisis de Exámenes del Estado Mental",
+    "subtitle-card": "Análisis de Puntajes",
+    "exam-count": "Cantidad de Evaluaciones",
+    "high-score": "Calificación Total más alta",
+    "lowest-score": "Calificación Total más baja",
+    "average-score": "Calificación Total promedio"
+  },
+  "examiner-performance-overview": {
+    "title": "Descripción general del desempeño del examinador",
+    "subtitle": "Rendimiento del examen del estado mental",
+    "exam-count": "Cantidad Actual de Exámenes de Salud Mental Asignados",
+    "total-average": "Promedio de Calificación Total de Exámenes de Salud Mental Asignados"
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "La ruta ",
+    "content2": ", no es correcta. Por favor, intenta con otra ruta.",
+    "button": "Ir a la página de inicio"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "phrase": "Welcome to HIGlogo.pngN"
+  },
+  "toolbar": {
+    "home": "Home",
+    "examiner-performance-overview": "Examiner Performance Overview"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Welcome to a HIGN",
+    "title-card": "Mental State Exam Analytics",
+    "subtitle-card": "Score Analytics",
+    "exam-count": "Exam Count",
+    "high-score": "Highest Score",
+    "lowest-score": "Lowest Score",
+    "average-score": "Average Score"
+  },
+  "examiner-performance-overview": {
+    "title": "Examiner Performance Overview",
+    "subtitle": "Mental State Exam Performance",
+    "exam-count": "Current Assigned Mental State Exam Count",
+    "total-average": "Average Assigned Mental State Exam Total Score"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path ",
+    "content2": ", is not a correct one. Please try with other path.",
+    "button": "Go to Home"
+  }
+}
